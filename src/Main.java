@@ -7,7 +7,7 @@ public class Main {
     }
 
     public static void udskriv() {
-        System.out.println("Hej nikolaj og bue");
+        System.out.println("Jeg spiser ikke");
 
     }
 
